@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    int n=3223,pali=0,i;
+    int n,pali=0,i;
+    cin>>n;
     i=n;
     while(i>0){
         int temp=i%10;
