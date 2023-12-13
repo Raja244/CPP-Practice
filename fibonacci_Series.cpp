@@ -12,6 +12,7 @@ int main(){
         a=fbb;
         cout<<fbb<<" ";
         i++;
+        
     }
     
 }
